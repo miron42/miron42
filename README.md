@@ -1,22 +1,50 @@
-<h1 align="center">Привет! 👋 Меня зовут Никита</h1>
+<h1 align="center">Привет, меня зовут Никита 👋</h1>
+<p align="center">💡 Junior Python Developer | Telegram bots | CI/CD | SQL | DRF | Docker | Nginx</p>
 
 ---
 
-### 🧠 Языки и инструменты:
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django" />
-  <img src="https://img.shields.io/badge/-DRF-%23F05033?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
-</p>
+### 🧠 Немного обо мне
+
+- 🧑‍💻 Пишу бэкенд на **Python**, использую **Django**, **DRF**, **FastAPI**
+- 🤖 Люблю создавать **Telegram-ботов**
+- 🐳 Умею деплоить с помощью **Docker**, **Nginx**, **GitHub Actions**
+- 🎓 Изучаю архитектуру, асинхронность и систему CI/CD
+- 🌍 Открыт к сотрудничеству — фриланс, стажировка, тимворк
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miron42&layout=compact&theme=tokyonight)
+### 🛠 Мой стек и инструменты
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/-DRF-red?style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-blue?style=for-the-badge)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
+
+### 📈 Статистика
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miron42&layout=compact&theme=dark&langs_count=8)
+
+---
+
+### 📫 Связаться со мной
+
+- 📍 Крым, Россия
+- ✉️ [prettyboymiron@yandex.ru](mailto:prettyboymiron@yandex.ru)
+- 💬 [t.me/mnironion](https://t.me/mnironion)
+
+---
+
+### 🤝 Буду рад сотрудничеству
+
+- ✨ Фриланс-проекты
+- 🛠 Стажировка / pet-проекты
+- 👨‍👩‍👧 Работа в команде
+- 🎯 Разработка Telegram-ботов
