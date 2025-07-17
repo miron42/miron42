@@ -36,9 +36,8 @@
 
 ### 📫 Связаться со мной
 
-- 📍 Крым, Россия
-- ✉️ [prettyboymiron@yandex.ru](mailto:prettyboymiron@yandex.ru)
-- 💬 [t.me/mnironion](https://t.me/mnironion)
+- ✉️ [mironionlizard@yandex.ru](mailto:mironionlizard@yandex.ru)
+- 💬 [t.me/nmironion](https://t.me/nmironion)
 
 ---
 
